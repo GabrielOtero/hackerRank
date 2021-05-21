@@ -1,0 +1,27 @@
+Array
+-------------
+    0         1
+["Apple","Apple", "Orange"]
+-------------
+
+
+Hash Table
+-------------
+Apple   | 2
+Orange  | 1
+Banana  | 3
+-------------
+
+
+
+Exemplo
+two times three is not four
+two times two is four
+-------------
+ two   | 0
+ times | 1
+ three | 1
+ is    | 1
+ not   | 1
+ four  | 1
+-------------
