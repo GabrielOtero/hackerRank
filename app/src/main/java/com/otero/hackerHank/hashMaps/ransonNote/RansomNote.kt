@@ -1,4 +1,4 @@
-package com.otero.hackerHank.hashMaps.ransomNote
+package com.otero.hackerHank.hashMaps.ransonNote
 
 class RansomNote {
 

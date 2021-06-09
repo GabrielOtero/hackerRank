@@ -1,5 +1,6 @@
 package com.otero.hackerHank.hashMaps.ransomNote
 
+import com.otero.hackerHank.hashMaps.ransonNote.RansomNote
 import org.junit.Assert
 import org.junit.Test
 

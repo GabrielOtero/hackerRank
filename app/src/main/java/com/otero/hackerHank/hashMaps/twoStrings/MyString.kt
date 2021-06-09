@@ -3,10 +3,10 @@ package com.otero.hackerHank.hashMaps.twoStrings
 class MyString {
 
     fun twoStrings(s1: String, s2: String): String {
-        if(hasSubsString(s1,s2))
-            return "YES"
+        return if(hasSubsString(s1,s2))
+            "YES"
         else
-            return "NO"
+            "NO"
     }
 
     fun hasSubsStringFailed(s1: String, s2: String): Boolean {
