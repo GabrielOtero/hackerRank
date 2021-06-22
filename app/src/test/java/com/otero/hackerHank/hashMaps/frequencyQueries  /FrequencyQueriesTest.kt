@@ -2,6 +2,8 @@ package com.otero.hackerHank.hashMaps.`frequencyQueries  `
 
 import org.junit.Assert.assertArrayEquals
 import org.junit.Test
+import java.util.*
+import kotlin.collections.HashMap
 
 const val INSERT = 1
 const val DELETE = 2
@@ -110,4 +112,7 @@ class FrequencyQueriesTest {
             )
         )
     }
+
 }
+
+
